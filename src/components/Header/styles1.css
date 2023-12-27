@@ -1,0 +1,34 @@
+.mt-10 {
+    margin-top: 2.5rem/* 40px */;
+}
+.flex {
+    display: flex;
+}
+.flex-col {
+    flex-direction: column;
+}
+.gap-5 {
+    gap: 1.25rem/* 20px */;
+}
+.items-center {
+    align-items: center;
+}
+.justify-center {
+    justify-content: center;
+}
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.text-5xl {
+    font-size: 3rem/* 48px */;
+    line-height: 1;
+    background: linear-gradient(to right, rgb(15, 23, 42), rgb(88, 28, 135), rgb(15, 23, 42));
+}
+.font-bold {
+    font-weight: 700;
+}
+.text-xl {
+    font-size: 1.25rem/* 20px */;
+    line-height: 1.75rem/* 28px */;
+}
